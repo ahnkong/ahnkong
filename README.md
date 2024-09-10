@@ -5,14 +5,15 @@
   도전 정신, 커뮤니케이션에 탁월하며, 문서 작성력까지 겸비하고 있습니다.</p>
 
   <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-  
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnkong&layout=donut-vertical" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnkong&layout=donut-vertical" alt="Top Langs" width=300/>
   </a>
-  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahnkong&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" alt="ahnkong's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ahnkong" alt="Anurag's GitHub stats" />
   </a>
+</div>
+
 
   <h3 align="center">📚 Tech Stack 📚</h3>
   <p align="center">
